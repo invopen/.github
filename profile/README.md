@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/invopen">
-    <img src="primary icon.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/invopen/.github/refs/heads/main/primary%20icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">invopen</h3>
